@@ -1,13 +1,13 @@
 # 📈 Portfolio Optimization & Risk Analysis
 
-This project explores how portfolio optimization techniques can be applied to real financial market data using Python. The analysis covers the full workflow from collecting historical stock prices to building optimized portfolios using Modern Portfolio Theory and Mean-Variance Optimization.
+This project explores how portfolio optimization techniques can be applied to real financial market data using Python. The analysis covers the full workflow from collecting historical stock prices to building optimized portfolios using Monte Carlo and Mean-Variance Optimization.
 
 Using data from Yahoo Finance, the project analyzes the relationship between risk and return, simulates thousands of portfolios through Monte Carlo methods, and evaluates portfolio performance using financial risk metrics such as Sharpe Ratio, Variance, Sortino Ratio, and Maximum Drawdown.
 
 # 🎯 Goals of the Project
 
 This project was created to:
-- Apply portfolio theory using real financial data
+- Apply Monte Carlo Stimulation using real financial data
 - Practice quantitative finance techniques in Python
 - Explore the relationship between risk and return
 - Build practical experience with financial optimization models
